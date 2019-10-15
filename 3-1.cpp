@@ -1,7 +1,7 @@
 #include <bits/stdc++.h> 
 using namespace std; 
 
-co	nst int ALPHABET_SIZE = 26; 
+const int ALPHABET_SIZE = 26; 
 
 struct TrieNode 
 { 
